@@ -1,0 +1,31 @@
+server:
+  port: 8520
+  servlet.context-path: /email
+  output:
+    ansi:
+      enabled: always
+spring:
+  jackson:
+    time-zone: "GMT+8"
+    date-format: "yyyy-MM-dd HH:mm:ss"
+  required: true
+
+  thymeleaf:
+    cache: false #禁用模版引擎缓存
+    suffix: .html
+    check-template-location: true
+  mvc:
+    date-format: yyyy-MM-dd HH:mm:ss
+  servlet:
+    multipart:
+      max-file-size: 10MB
+
+  jmx: #jmx资源扩展管理
+    default-domain: email
+logging:
+  level:
+    org:
+      springframework:
+        security: DEBUG
+    hibernate: DEBUG
+  path: /emailLog/log

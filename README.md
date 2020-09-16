@@ -120,6 +120,6 @@ java -jar email-2.2.1.RELEASE.jar // 运行程序
 <img src="https://github.com/zhendexuebuhui/SweetTaskEmail/blob/master/ScreenCapture/Examples.jpg" style="zoom:33%;" />
 
 
-##　扩展性
+## 扩展性
 
 　　可以在jsoup文件夹下增加爬取的网页内容，调整email.html的内联样式让html模板邮件更加漂亮

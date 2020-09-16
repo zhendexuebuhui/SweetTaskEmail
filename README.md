@@ -102,7 +102,7 @@ class EmailApplicationTests {
 
 ### 5. Maven 打包成jar包
 
-<img src="https://github.com/zhendexuebuhui/SweetTaskEmail/blob/master/ScreenCapture/package.jpg" style="zoom:50%;" />
+<div align=center><img src="https://github.com/zhendexuebuhui/SweetTaskEmail/blob/master/ScreenCapture/package.jpg" /></div>
 
 ###　6. 在target文件夹中找到email-2.2.1.RELEASE.jar
 
@@ -117,7 +117,7 @@ java -jar email-2.2.1.RELEASE.jar // 运行程序
 ## 邮件样例
 
 
-<img src="https://github.com/zhendexuebuhui/SweetTaskEmail/blob/master/ScreenCapture/Examples.jpg" width="150px" />
+<div align=center><img src="https://github.com/zhendexuebuhui/SweetTaskEmail/blob/master/ScreenCapture/Examples.jpg" width="450px" /></div>
 
 
 ## 扩展性

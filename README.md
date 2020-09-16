@@ -117,7 +117,7 @@ java -jar email-2.2.1.RELEASE.jar // 运行程序
 ## 邮件样例
 
 
-<div align=center><img src="https://github.com/zhendexuebuhui/SweetTaskEmail/blob/master/ScreenCapture/Examples.jpg" width="450px" /></div>
+<div align=center><img src="https://github.com/zhendexuebuhui/SweetTaskEmail/blob/master/ScreenCapture/Examples.jpg" width="400px" /></div>
 
 
 ## 扩展性
